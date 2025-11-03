@@ -1,0 +1,6 @@
+flask
+flask-cors
+google-genai         # official google genai SDK (Gemini)
+mysql-connector-python
+sqlparse
+python-dotenv
